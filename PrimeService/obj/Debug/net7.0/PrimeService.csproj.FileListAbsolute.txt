@@ -1,0 +1,11 @@
+C:\Users\jeric\OneDrive\code\Microsoft\C#\unit-testing-using-mstest\PrimeService\bin\Debug\net7.0\PrimeService.deps.json
+C:\Users\jeric\OneDrive\code\Microsoft\C#\unit-testing-using-mstest\PrimeService\bin\Debug\net7.0\PrimeService.dll
+C:\Users\jeric\OneDrive\code\Microsoft\C#\unit-testing-using-mstest\PrimeService\bin\Debug\net7.0\PrimeService.pdb
+C:\Users\jeric\OneDrive\code\Microsoft\C#\unit-testing-using-mstest\PrimeService\obj\Debug\net7.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeric\OneDrive\code\Microsoft\C#\unit-testing-using-mstest\PrimeService\obj\Debug\net7.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\jeric\OneDrive\code\Microsoft\C#\unit-testing-using-mstest\PrimeService\obj\Debug\net7.0\PrimeService.AssemblyInfo.cs
+C:\Users\jeric\OneDrive\code\Microsoft\C#\unit-testing-using-mstest\PrimeService\obj\Debug\net7.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\jeric\OneDrive\code\Microsoft\C#\unit-testing-using-mstest\PrimeService\obj\Debug\net7.0\PrimeService.dll
+C:\Users\jeric\OneDrive\code\Microsoft\C#\unit-testing-using-mstest\PrimeService\obj\Debug\net7.0\refint\PrimeService.dll
+C:\Users\jeric\OneDrive\code\Microsoft\C#\unit-testing-using-mstest\PrimeService\obj\Debug\net7.0\PrimeService.pdb
+C:\Users\jeric\OneDrive\code\Microsoft\C#\unit-testing-using-mstest\PrimeService\obj\Debug\net7.0\ref\PrimeService.dll
